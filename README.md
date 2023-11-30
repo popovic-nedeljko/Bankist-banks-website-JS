@@ -31,6 +31,11 @@ _*Inside project root(src)*_
 'npm instal live-server'
 ```
 
+## NOTE*** 
+node version: 16.15.0
+
+npm version: 8.5.5
+
 ```
 'live-server'
 ```
